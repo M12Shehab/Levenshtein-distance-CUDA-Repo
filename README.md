@@ -5,4 +5,4 @@ Repository for Levenshtein distance algorithm
 
 © Mohammed A. Shehab
 
-Licensed under [MIT Licenses](LICENSES)
+Licensed under [MIT Licenses](LICENSE)
